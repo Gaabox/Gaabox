@@ -6,7 +6,7 @@
 
 Transformando dados financeiros em análises claras, indicadores estratégicos e decisões melhores.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-111111?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://www.linkedin.com/in/gabriel-ramos-1842a8275)
+[![LinkedIn](https://icons.getbootstrap.com/icons/linkedin/)
 [![Outlook](https://img.shields.io/badge/Outlook-111111?style=for-the-badge&logo=microsoftoutlook&logoColor=0078D4)](mailto:gabrielramos.grs@outlook.com)
 [![GitHub](https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Gaabox)
 
