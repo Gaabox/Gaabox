@@ -8,7 +8,7 @@
 
 <br>
 
-<img src="./profile-code.png" width="320" alt="Retrato em preto e branco de Gabriel Ramos com estética de programação" />
+<img src="./profile-code.gif" width="320" alt="Retrato animado de Gabriel Ramos" />
 
 <br><br>
 
