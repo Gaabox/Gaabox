@@ -19,7 +19,7 @@
     <td width="58%" valign="top">
       <h2>Sobre mim</h2>
       <p>
-        Profissional de <strong>Analista Financeiro e Performance</strong>, formado em <strong>Gestão Financeira</strong> e em especialização na área de <strong>Ciência de Dados</strong>.
+        Profissional <strong>Analista Financeiro e Performance</strong>, formado em <strong>Gestão Financeira</strong> e em especialização na área de <strong>Ciência de Dados</strong>.
       </p>
       <p>
         Transformo dados financeiros em dashboards, indicadores e análises que apoiam decisões estratégicas da liderança e das áreas comerciais.
