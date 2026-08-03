@@ -19,7 +19,7 @@
     <td width="58%" valign="top">
       <h2>Sobre mim</h2>
       <p>
-        Profissional de <strong>Crédito e Cobrança</strong>, formado em <strong>Gestão Financeira</strong> e em especialização na área de <strong>Ciência de Dados</strong>.
+        Profissional de <strong>Analista Financeiro e Performance</strong>, formado em <strong>Gestão Financeira</strong> e em especialização na área de <strong>Ciência de Dados</strong>.
       </p>
       <p>
         Transformo dados financeiros em dashboards, indicadores e análises que apoiam decisões estratégicas da liderança e das áreas comerciais.
@@ -27,7 +27,6 @@
       <p>
         <strong>Foco:</strong> Análise de Dados e Business Intelligence<br>
         <strong>Experiência:</strong> Dashboards, KPIs e automações<br>
-        <strong>Análises:</strong> Aging, inadimplência e performance<br>
         <strong>Objetivo:</strong> Evolução profissional na área de Dados
       </p>
       <h3>Principais ferramentas</h3>
